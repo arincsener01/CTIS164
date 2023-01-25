@@ -1,0 +1,47 @@
+﻿  HW3.cpp
+C:\Users\sener\source\repos\164HW3_Sols\164HW3\HW3.cpp(112,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sener\source\repos\164HW3_Sols\164HW3\HW3.cpp(113,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sener\source\repos\164HW3_Sols\164HW3\HW3.cpp(113,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sener\source\repos\164HW3_Sols\164HW3\HW3.cpp(124,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sener\source\repos\164HW3_Sols\164HW3\HW3.cpp(125,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sener\source\repos\164HW3_Sols\164HW3\HW3.cpp(125,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sener\source\repos\164HW3_Sols\164HW3\HW3.cpp(221,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sener\source\repos\164HW3_Sols\164HW3\HW3.cpp(243,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sener\source\repos\164HW3_Sols\164HW3\HW3.cpp(243,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sener\source\repos\164HW3_Sols\164HW3\HW3.cpp(259,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sener\source\repos\164HW3_Sols\164HW3\HW3.cpp(259,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sener\source\repos\164HW3_Sols\164HW3\HW3.cpp(273,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sener\source\repos\164HW3_Sols\164HW3\HW3.cpp(273,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sener\source\repos\164HW3_Sols\164HW3\HW3.cpp(399,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sener\source\repos\164HW3_Sols\164HW3\HW3.cpp(414,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\sener\source\repos\164HW3_Sols\164HW3\HW3.cpp(423,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sener\source\repos\164HW3_Sols\164HW3\HW3.cpp(423,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sener\source\repos\164HW3_Sols\164HW3\HW3.cpp(424,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sener\source\repos\164HW3_Sols\164HW3\HW3.cpp(424,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sener\source\repos\164HW3_Sols\164HW3\HW3.cpp(426,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sener\source\repos\164HW3_Sols\164HW3\HW3.cpp(426,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sener\source\repos\164HW3_Sols\164HW3\HW3.cpp(427,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sener\source\repos\164HW3_Sols\164HW3\HW3.cpp(427,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sener\source\repos\164HW3_Sols\164HW3\HW3.cpp(429,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sener\source\repos\164HW3_Sols\164HW3\HW3.cpp(429,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sener\source\repos\164HW3_Sols\164HW3\HW3.cpp(430,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sener\source\repos\164HW3_Sols\164HW3\HW3.cpp(430,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sener\source\repos\164HW3_Sols\164HW3\HW3.cpp(432,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sener\source\repos\164HW3_Sols\164HW3\HW3.cpp(432,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sener\source\repos\164HW3_Sols\164HW3\HW3.cpp(433,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sener\source\repos\164HW3_Sols\164HW3\HW3.cpp(433,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sener\source\repos\164HW3_Sols\164HW3\HW3.cpp(477,73): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sener\source\repos\164HW3_Sols\164HW3\HW3.cpp(477,58): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sener\source\repos\164HW3_Sols\164HW3\HW3.cpp(477,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sener\source\repos\164HW3_Sols\164HW3\HW3.cpp(500,31): warning C4244: 'argument': conversion from 'const int' to 'GLfloat', possible loss of data
+C:\Users\sener\source\repos\164HW3_Sols\164HW3\HW3.cpp(500,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sener\source\repos\164HW3_Sols\164HW3\HW3.cpp(510,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\sener\source\repos\164HW3_Sols\164HW3\HW3.cpp(511,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\sener\source\repos\164HW3_Sols\164HW3\HW3.cpp(512,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\sener\source\repos\164HW3_Sols\164HW3\HW3.cpp(525,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\sener\source\repos\164HW3_Sols\164HW3\HW3.cpp(526,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\sener\source\repos\164HW3_Sols\164HW3\HW3.cpp(527,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\sener\source\repos\164HW3_Sols\164HW3\HW3.cpp(539,46): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\sener\source\repos\164HW3_Sols\164HW3\HW3.cpp(663,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\sener\source\repos\164HW3_Sols\164HW3\HW3.cpp(664,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  164HW3.vcxproj -> C:\Users\sener\source\repos\164HW3_Sols\Debug\164HW3.exe
